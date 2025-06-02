@@ -122,10 +122,10 @@ GOOGLE_API_KEY=your_google_gemini_api_key
 
 ## 🧑‍💻 Author
 
-**Shivank Kumar**
+**UJJWAL KUMAR**
 
-- [LinkedIn](https://www.linkedin.com/in/shivank-kumar-17a884254/)
-- [GitHub](https://github.com/Shivankkumar09)
+- [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-a4a009238/)
+- [GitHub](https://github.com/TacticalPrice)
 
 ---
 
